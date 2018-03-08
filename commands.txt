@@ -1,0 +1,6 @@
+
+1. To enable CSS module and CSS files to be scoped to each component
+npm run eject
+
+2. To validate props
+npm i --save prop-types
