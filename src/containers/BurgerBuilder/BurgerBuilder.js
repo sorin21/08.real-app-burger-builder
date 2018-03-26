@@ -9,7 +9,7 @@ import Aux from '../../hoc/Auxiliary';
   const  INGREDIENT_PRICES = {
     salad: .5,
     cheese: .4,
-    meet: 1.3,
+    meat: 1.3,
     bacon: .7
   }
 
