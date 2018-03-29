@@ -4,3 +4,9 @@ npm run eject
 
 2. To validate props
 npm i --save prop-types
+
+3. Add axios
+npm i --save axios
+
+4. Css spinners
+https://projects.lukehaas.me/css-loaders/
